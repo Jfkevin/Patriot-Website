@@ -8,7 +8,7 @@ Website ini mengelompokkan pahlawan berdasarkan **timeline sejarah**:
 - ⚔️ Masa Penjajahan Jepang  
 - 🕊️ Masa Pasca / Mempertahankan Kemerdekaan  
 
-Proyek ini bertujuan untuk mengenalkan para pahlawan nasional secara merata, **tidak hanya terfokus pada wilayah Jawa**, tetapi juga dari berbagai provinsi di seluruh Nusantara.  
+Demo website : https://patriot-website.vercel.app/ 
 
 ---
 
